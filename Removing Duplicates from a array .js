@@ -15,3 +15,4 @@ var antiDuplicates = (arr1) =>{
 }
 var res = antiDuplicates([5,5,9,10,11,5,5,6,7])
 console.log(res)
+//Made by Syed Ahmed Haider Razvi 
